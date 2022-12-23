@@ -1,0 +1,23 @@
+<Library>
+  <Technical_Catalogue>
+    <Book ISBN="1608058832">
+      <Title>Introduction to Computer Data Representation</Title>
+      <Author>Peter Fenwick</Author>
+    </Book>
+    <Book>
+    <Book ISBN="3319707892">
+      <Title>Foundations of Programming Languages</Title>
+      <Author>Kent D. Lee</Author>
+    </Book>
+  </Technical_Catalogue>
+  <Cookery_Catalogue>
+    <Book ISBN="0593084276">
+      <Title>The Korean Vegan Cookbook</Title>
+      <Author>Joanne Lee Molinaro</Author>
+    </Book>
+    <Book ISBN="1948062801">
+      <Title>Fire Islands: Recipes From Indonesia</Title>
+      <Author>Eleanor Ford</Author>
+    </Book>
+  </Cookery_Catalogue>
+</Library>
